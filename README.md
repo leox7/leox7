@@ -5,7 +5,7 @@ Former shortcourse student at strathmore University (ICDL COURSE) and JKUAT Univ
 👨‍💻Backend Web developer <br/>
 😏I create android applications and java stand alone systems for fun and to stay consistent<br/>
 🤖I create ai automation agents using n8n and relevance ai for fun and for the passion and interest in ai. <br/>
-💪I'm into fitness ,nutrition and basketball
+💪I'm into fitness and basketball
 
 
 ## 🌐 Socials:
