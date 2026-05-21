@@ -2,7 +2,7 @@
 
 🧠Software developer student at KCA University<br/>
 Former shortcourse student at strathmore University (ICDL COURSE) and JKUAT University (Web development and intro to python programming course)<br/>
-👨‍💻Backend Web developer <br/>
+👨‍💻Backend developer <br/>
 😏I create android applications and java stand alone systems for fun and to stay consistent<br/>
 🤖I create ai automation agents using n8n and relevance ai for fun and for the passion and interest in ai. <br/>
 💪I'm into fitness and basketball
