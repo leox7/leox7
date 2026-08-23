@@ -4,7 +4,7 @@ I'm software developer ,I build backend systems and APIs end to end — from dat
 Studied at Kca University <br/>
 Former shortcourse student at strathmore University (ICDL COURSE) and JKUAT University (Web development and intro to python programming course)<br/>
 👨‍💻Backend developer <br/>
-😏I create android applications and java stand alone systems for fun and to stay consistent<br/>
+😏I create java stand alone systems for fun and to stay consistent<br/>
 🤖I create ai automation agents using n8n and relevance ai for fun and for the passion and interest in ai and machine Learning. <br/>
 💪I'm into fitness and basketball
 
